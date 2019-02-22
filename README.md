@@ -10,6 +10,8 @@
 
 [D#0002-hack_your_printf](https://github.com/Captain1986/CaptainBlackboard/blob/master/D%230002-hack_your_printf/D%230002.md)
 
+[D#0003-optimizing_cosine_distance_searching_in_a_million_feature-set](https://github.com/Captain1986/CaptainBlackboard/blob/master/D%230003-optimizing_cosine_distance_searching_in_a_million_feature-set/D%230003.md)
+
 ## 联系方式：
 
 + Email: dupeng63@163.com

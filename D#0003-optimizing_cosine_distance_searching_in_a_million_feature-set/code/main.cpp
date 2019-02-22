@@ -4,11 +4,11 @@
 #include "timer.h"
 #include "search_best.h"
 
-#define ALGIN               (32) // 使用SIMD需要内存对齐
+#define ALGIN               (32) // 使用SIMD需要内存对齐，128bit的指令需要16位对齐，256bit的指令需要32位对齐
 #define FACENUM      (1000*1000) // 底库中存有100万张人脸特征向量
-#define FEATSIZE           (512) // 每个人脸特征向量的维度是512维
+#define FEATSIZE           (512) // 每个人脸特征向量的维度是512维，每一维是一个DType类型的浮点数
 
-// Step 4, double-->float
+// Step 4, double-->float(在我的电脑上，sizeof(float)==4，sizeof(double)==8
 typedef float DType;
 
 int main(int argc, char* argv[])
@@ -20,14 +20,15 @@ int main(int argc, char* argv[])
   }
 
   // 2.定义底库中所有脸的特征向量，并初始化
-  // 为了使用SIMD优化，使用memalign，牺牲了代码的可移植性
+  // 为了使用SIMD优化，使用memalign申请对齐了的内存，牺牲了代码的可移植性
   DType* pDB = reinterpret_cast<DType*>(memalign(ALGIN, sizeof(DType)*FACENUM*FEATSIZE));
   if(!pDB) {
       std::cout << "out of memory\n";
       return -1;
   }
 
-//  printf("vectorA[%p], pDB[%p].\n", vectorA, pDB);
+  // 验证内存是否对齐
+  // printf("vectorA[%p], pDB[%p].\n", vectorA, pDB);
 
   for(int i = 0; i < FACENUM; i++) {
       for(int j = 0; j < FEATSIZE; j++) {
