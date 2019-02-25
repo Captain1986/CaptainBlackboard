@@ -29,9 +29,9 @@ int SearchBest(const T* __restrict__ const pVecA,  // 待搜索的单个特征�
 #pragma omp parallel for
     for(int i = 0; i < facenum; i++) {
         // 普通C++代码实现的余弦相似度计算
-        //T similarity = Cosine_similarity(pVecA, pVecDB + i*featsize, featsize);
+        T similarity = Cosine_similarity(pVecA, pVecDB + i*featsize, featsize);
         // 使用向量化代码实现的余弦相似度计算
-        T similarity = Cosine_similarity_avx(pVecA, pVecDB + i*featsize, featsize);
+        //T similarity = Cosine_similarity_avx(pVecA, pVecDB + i*featsize, featsize);
         if(similarity > best_similarity) {
             best_similarity = similarity;
             best_index = i;
