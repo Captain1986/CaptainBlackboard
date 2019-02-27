@@ -5,6 +5,8 @@
 #include <cmath>
 #include <float.h>
 #include <climits>
+// use openblas
+#include <cblas.h>
 #include "cosine_similarity.h"
 
 // Step 1, g++ main.cpp search_best.cpp cosine_similarity.cpp -std=c++11
@@ -37,6 +39,14 @@ int SearchBest(const T* __restrict__ const pVecA,  // 待搜索的单个特征�
             best_index = i;
         }
     }
+
+// 使用OpenBLAS
+#if 1
+    T simAll[facenum] = {0.0f};
+    cblas_sgemv(CblasRowMajor, CblasNoTrans, facenum, featsize, 1, pVecDB, featsize, pVecA, 1, 0, simAll, 1);
+    // 寻找simAll里面最大的，它的序号就是要找的id
+    // TODO
+#endif
 
     return best_index;
 }
