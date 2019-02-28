@@ -13,7 +13,7 @@
 // Step 4, double-->float(在我的电脑上，sizeof(float)==4，sizeof(double)==8, sizeof(short)==2, sizeof(int)==4
 //typedef float DType;
 // Step 12, float-->unsigned short，定点化
-typedef unsigned short DType;
+typedef float DType;
 
 float calcL(const DType * const pVec, const int len)
 {
