@@ -12,6 +12,8 @@
 
 [D#0003-optimizing_cosine_distance_searching_in_a_million_feature-set](https://github.com/Captain1986/CaptainBlackboard/blob/master/D%230003-optimizing_cosine_distance_searching_in_a_million_feature-set/D%230003.md)
 
+[D#0004-depthwise_separable_convolutions_in_mobilenet](https://github.com/Captain1986/CaptainBlackboard/blob/master/D%230004-depthwise_separable_convolutions_in_mobilenet/D%230004.md)
+
 ## 联系方式：
 
 + Email: dupeng63@163.com
