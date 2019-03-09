@@ -14,6 +14,8 @@
 
 [D#0004-depthwise_separable_convolutions_in_mobilenet](https://github.com/Captain1986/CaptainBlackboard/blob/master/D%230004-depthwise_separable_convolutions_in_mobilenet/D%230004.md)
 
+[D#0005-separable_convolutions_in_image_processing](https://github.com/Captain1986/CaptainBlackboard/blob/master/D%230005-separable_convolutions_in_image_processing/D%230005.md)
+
 ## 联系方式：
 
 + Email: dupeng63@163.com
