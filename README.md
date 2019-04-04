@@ -16,6 +16,8 @@
 
 [D#0005-separable_convolutions_in_image_processing](https://github.com/Captain1986/CaptainBlackboard/blob/master/D%230005-separable_convolutions_in_image_processing/D%230005.md)
 
+[D#0006-protect_my_function](https://github.com/Captain1986/CaptainBlackboard/blob/master/D%230006-protect_my_function/D%230006.md)
+
 ## 联系方式：
 
 + Email: dupeng63@163.com
