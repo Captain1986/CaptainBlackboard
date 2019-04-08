@@ -18,6 +18,8 @@
 
 [D#0006-protect_my_function](https://github.com/Captain1986/CaptainBlackboard/blob/master/D%230006-protect_my_function/D%230006.md)
 
+[D#0007-compile_git_commit_sha1_into_elf](https://github.com/Captain1986/CaptainBlackboard/blob/master/D%230007-compile_git_commit_sha1_into_elf/D%230007.md)
+
 ## 联系方式：
 
 + Email: dupeng63@163.com
