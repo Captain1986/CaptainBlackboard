@@ -24,6 +24,8 @@
 
 [D#0009-SVM](https://github.com/Captain1986/CaptainBlackboard/blob/master/D%230009-SVM/D%230009.md)
 
+[D#0010-从线性回归到对率回归到Softmax激活函数](https://github.com/Captain1986/CaptainBlackboard/blob/master/D%230010-%E4%BB%8E%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92%E5%88%B0%E5%AF%B9%E7%8E%87%E5%9B%9E%E5%BD%92%E5%88%B0Softmax%E6%BF%80%E6%B4%BB%E5%87%BD%E6%95%B0/D%230010.md)
+
 ## 联系方式：
 
 + Email: dupeng63@163.com
