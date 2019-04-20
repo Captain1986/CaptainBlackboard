@@ -22,6 +22,8 @@
 
 [D#0008-拉格朗日乘子法](https://github.com/Captain1986/CaptainBlackboard/blob/master/D%230008-%E6%8B%89%E6%A0%BC%E6%9C%97%E6%97%A5%E4%B9%98%E5%AD%90%E6%B3%95/D%230008.md)
 
+[D#0009-SVM](https://github.com/Captain1986/CaptainBlackboard/blob/master/D%230009-SVM/D%230009.md)
+
 ## 联系方式：
 
 + Email: dupeng63@163.com
