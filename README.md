@@ -28,6 +28,8 @@
 
 [D#0011-kNN](https://github.com/Captain1986/CaptainBlackboard/blob/master/D%230011-kNN/D%230011.md)
 
+[D#0012-为什么选交叉熵作为分类问题的损失函数](https://github.com/Captain1986/CaptainBlackboard/blob/master/D%230012-%E4%B8%BA%E4%BB%80%E4%B9%88%E9%80%89%E4%BA%A4%E5%8F%89%E7%86%B5%E4%BD%9C%E4%B8%BA%E5%88%86%E7%B1%BB%E9%97%AE%E9%A2%98%E7%9A%84%E6%8D%9F%E5%A4%B1%E5%87%BD%E6%95%B0/D%230012.md)
+
 ## 联系方式：
 
 + Email: dupeng63@163.com
