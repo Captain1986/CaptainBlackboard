@@ -30,6 +30,8 @@
 
 [D#0012-为什么选交叉熵作为分类问题的损失函数](https://github.com/Captain1986/CaptainBlackboard/blob/master/D%230012-%E4%B8%BA%E4%BB%80%E4%B9%88%E9%80%89%E4%BA%A4%E5%8F%89%E7%86%B5%E4%BD%9C%E4%B8%BA%E5%88%86%E7%B1%BB%E9%97%AE%E9%A2%98%E7%9A%84%E6%8D%9F%E5%A4%B1%E5%87%BD%E6%95%B0/D%230012.md)
 
+[D#0013-深度学习调参常用方法总结](https://github.com/Captain1986/CaptainBlackboard/blob/master/D%230013-%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E8%B0%83%E5%8F%82%E5%B8%B8%E7%94%A8%E6%96%B9%E6%B3%95%E6%80%BB%E7%BB%93/D%230013.md)
+
 ## 联系方式：
 
 + Email: dupeng63@163.com
