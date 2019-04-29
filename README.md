@@ -32,6 +32,8 @@
 
 [D#0013-深度学习调参常用方法总结](https://github.com/Captain1986/CaptainBlackboard/blob/master/D%230013-%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E8%B0%83%E5%8F%82%E5%B8%B8%E7%94%A8%E6%96%B9%E6%B3%95%E6%80%BB%E7%BB%93/D%230013.md)
 
+[D#0014-数据降维常用方法总结(LDA,PCA)](https://github.com/Captain1986/CaptainBlackboard/blob/master/D%230014-%E6%95%B0%E6%8D%AE%E9%99%8D%E7%BB%B4%E5%B8%B8%E7%94%A8%E6%96%B9%E6%B3%95%E6%80%BB%E7%BB%93(LDA%2CPCA)/D%230014.md)
+
 ## 联系方式：
 
 + Email: dupeng63@163.com
