@@ -38,6 +38,8 @@
 
 [D#0016-深度学习中不平衡样本的处理](https://github.com/Captain1986/CaptainBlackboard/blob/master/D%230016-%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E4%B8%AD%E4%B8%8D%E5%B9%B3%E8%A1%A1%E6%A0%B7%E6%9C%AC%E7%9A%84%E5%A4%84%E7%90%86/D%230016.md)
 
+[D#0017-MTCNN和FaceBoxes](https://github.com/Captain1986/CaptainBlackboard/blob/master/D%230017-MTCNN%E5%92%8CFaceBoxes/D%230017.md)
+
 ## 联系方式：
 
 + Email: dupeng63@163.com
