@@ -40,6 +40,8 @@
 
 [D#0017-MTCNN和FaceBoxes](https://github.com/Captain1986/CaptainBlackboard/blob/master/D%230017-MTCNN%E5%92%8CFaceBoxes/D%230017.md)
 
+[D#0019-DeepID1,DeepID2,DeepID2+和DeepID3](https://github.com/Captain1986/CaptainBlackboard/blob/master/D%230019-DeepID1%2CDeepID2%2CDeepID2%2B%E5%92%8CDeepID3/D%230019.md)
+
 ## 联系方式：
 
 + Email: dupeng63@163.com
