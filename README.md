@@ -42,9 +42,12 @@
 
 [D#0019-DeepID1,DeepID2,DeepID2+和DeepID3](https://github.com/Captain1986/CaptainBlackboard/blob/master/D%230019-DeepID1%2CDeepID2%2CDeepID2%2B%E5%92%8CDeepID3/D%230019.md)
 
-## 联系方式：
+## 联系方式
 
 + Email: dupeng63@163.com
 
 + 微信: zsdpdwxh
 
+## 转载须知
+
+**如需转载，请著名原作者“船长”和原文链接**
