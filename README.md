@@ -42,6 +42,8 @@
 
 [D#0019-DeepID1,DeepID2,DeepID2+和DeepID3](https://github.com/Captain1986/CaptainBlackboard/blob/master/D%230019-DeepID1%2CDeepID2%2CDeepID2%2B%E5%92%8CDeepID3/D%230019.md)
 
+[D#0020-Batch-Normalization层原理与分析](https://github.com/Captain1986/CaptainBlackboard/blob/master/D%230020-Batch-Normalization%E5%B1%82%E5%8E%9F%E7%90%86%E4%B8%8E%E5%88%86%E6%9E%90/D%230020.md)
+
 ## 联系方式
 
 + Email: dupeng63@163.com
