@@ -4,7 +4,7 @@
 
 欢迎各路朋友提Pull Request，改错别字都欢迎～
 
-## 目录
+## 目录（注：列且仅列已经完成的）
 
 [D#0001-undefined_reference_to_XXX](https://github.com/Captain1986/CaptainBlackboard/blob/master/D%230001-undefined_reference_to_XXX/D%230001.md)
 
