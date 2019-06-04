@@ -46,6 +46,8 @@
 
 [D#0021-机器学习中的过拟合及其解决办法](https://github.com/Captain1986/CaptainBlackboard/blob/master/D%230021-%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E4%B8%AD%E7%9A%84%E8%BF%87%E6%8B%9F%E5%90%88%E5%8F%8A%E5%85%B6%E8%A7%A3%E5%86%B3%E5%8A%9E%E6%B3%95/D%230021.md)
 
+[D#0023-CNN模型计算量估计](https://github.com/Captain1986/CaptainBlackboard/blob/master/D%230023-CNN%E6%A8%A1%E5%9E%8B%E8%AE%A1%E7%AE%97%E9%87%8F%E4%BC%B0%E8%AE%A1/D%230023.md)
+
 ## 联系方式
 
 + Email: dupeng63@163.com
