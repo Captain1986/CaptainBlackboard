@@ -48,6 +48,8 @@
 
 [D#0023-CNN模型计算量估计](https://github.com/Captain1986/CaptainBlackboard/blob/master/D%230023-CNN%E6%A8%A1%E5%9E%8B%E8%AE%A1%E7%AE%97%E9%87%8F%E4%BC%B0%E8%AE%A1/D%230023.md)
 
+[D#0024-CNN模型内存访问估计](https://github.com/Captain1986/CaptainBlackboard/blob/master/D%230024-CNN%E6%A8%A1%E5%9E%8B%E5%86%85%E5%AD%98%E8%AE%BF%E9%97%AE%E4%BC%B0%E8%AE%A1/D%230024.md)
+
 [D#0025-CNN中使用卷积代替全连接](https://github.com/Captain1986/CaptainBlackboard/blob/master/D%230025-CNN%E4%B8%AD%E4%BD%BF%E7%94%A8%E5%8D%B7%E7%A7%AF%E4%BB%A3%E6%9B%BF%E5%85%A8%E8%BF%9E%E6%8E%A5/D%230025.md)
 
 ## 联系方式
