@@ -52,6 +52,8 @@
 
 [D#0025-CNN中使用卷积代替全连接](https://github.com/Captain1986/CaptainBlackboard/blob/master/D%230025-CNN%E4%B8%AD%E4%BD%BF%E7%94%A8%E5%8D%B7%E7%A7%AF%E4%BB%A3%E6%9B%BF%E5%85%A8%E8%BF%9E%E6%8E%A5/D%230025.md)
 
+[D#0026-深度学习检测小目标常用方法](https://github.com/Captain1986/CaptainBlackboard/blob/master/D%230026-%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A3%80%E6%B5%8B%E5%B0%8F%E7%9B%AE%E6%A0%87%E5%B8%B8%E7%94%A8%E6%96%B9%E6%B3%95/D%230026.md)
+
 ## 联系方式
 
 + Email: dupeng63@163.com
