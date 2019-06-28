@@ -54,6 +54,8 @@
 
 [D#0026-深度学习检测小目标常用方法](https://github.com/Captain1986/CaptainBlackboard/blob/master/D%230026-%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A3%80%E6%B5%8B%E5%B0%8F%E7%9B%AE%E6%A0%87%E5%B8%B8%E7%94%A8%E6%96%B9%E6%B3%95/D%230026.md)
 
+[D#0027-聊聊2017 ImageNet夺冠的SENet](https://github.com/Captain1986/CaptainBlackboard/blob/master/D%230027-%E8%81%8A%E8%81%8A2017%20ImageNet%E5%A4%BA%E5%86%A0%E7%9A%84SENet/D%230027.md)
+
 ## 联系方式
 
 + Email: dupeng63@163.com
