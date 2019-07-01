@@ -56,6 +56,8 @@
 
 [D#0027-聊聊2017 ImageNet夺冠的SENet](https://github.com/Captain1986/CaptainBlackboard/blob/master/D%230027-%E8%81%8A%E8%81%8A2017%20ImageNet%E5%A4%BA%E5%86%A0%E7%9A%84SENet/D%230027.md)
 
+[D#0028-再聊SENet的孪生兄弟SKNet](https://github.com/Captain1986/CaptainBlackboard/blob/master/D%230028-%E5%86%8D%E8%81%8ASENet%E7%9A%84%E5%AD%AA%E7%94%9F%E5%85%84%E5%BC%9FSKNet/D%230028.md)
+
 ## 联系方式
 
 + Email: dupeng63@163.com
