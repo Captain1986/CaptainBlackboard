@@ -58,6 +58,8 @@
 
 [D#0028-再聊SENet的孪生兄弟SKNet](https://github.com/Captain1986/CaptainBlackboard/blob/master/D%230028-%E5%86%8D%E8%81%8ASENet%E7%9A%84%E5%AD%AA%E7%94%9F%E5%85%84%E5%BC%9FSKNet/D%230028.md)
 
+[D#0029-CV中的注意力机制](https://github.com/Captain1986/CaptainBlackboard/blob/master/D%230029-CV%E4%B8%AD%E7%9A%84%E6%B3%A8%E6%84%8F%E5%8A%9B%E6%9C%BA%E5%88%B6/D%230029.md)
+
 ## 联系方式
 
 + Email: dupeng63@163.com
