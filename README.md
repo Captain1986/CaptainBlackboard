@@ -60,6 +60,8 @@
 
 [D#0029-CV中的注意力机制](https://github.com/Captain1986/CaptainBlackboard/blob/master/D%230029-CV%E4%B8%AD%E7%9A%84%E6%B3%A8%E6%84%8F%E5%8A%9B%E6%9C%BA%E5%88%B6/D%230029.md)
 
+[D#0030-类MTCNN的360RIP人脸检测器PCN](https://github.com/Captain1986/CaptainBlackboard/blob/master/D%230030-%E7%B1%BBMTCNN%E7%9A%84360RIP%E4%BA%BA%E8%84%B8%E6%A3%80%E6%B5%8B%E5%99%A8PCN/D%230030.md)
+
 ## 联系方式
 
 + Email: dupeng63@163.com
