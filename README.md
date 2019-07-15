@@ -62,6 +62,8 @@
 
 [D#0030-类MTCNN的360RIP人脸检测器PCN](https://github.com/Captain1986/CaptainBlackboard/blob/master/D%230030-%E7%B1%BBMTCNN%E7%9A%84360RIP%E4%BA%BA%E8%84%B8%E6%A3%80%E6%B5%8B%E5%99%A8PCN/D%230030.md)
 
+[D#0031-知识蒸馏Knowledge-Distillation](https://github.com/Captain1986/CaptainBlackboard/blob/master/D%230031-%E7%9F%A5%E8%AF%86%E8%92%B8%E9%A6%8FKnowledge-Distillation/D%230031.md)
+
 ## 联系方式
 
 + Email: dupeng63@163.com
