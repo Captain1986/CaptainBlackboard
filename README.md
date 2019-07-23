@@ -64,6 +64,8 @@
 
 [D#0031-知识蒸馏Knowledge-Distillation](https://github.com/Captain1986/CaptainBlackboard/blob/master/D%230031-%E7%9F%A5%E8%AF%86%E8%92%B8%E9%A6%8FKnowledge-Distillation/D%230031.md)
 
+[D#0032-CNN可视化之类激活热力图Grad-CAM](https://github.com/Captain1986/CaptainBlackboard/blob/master/D%230032-CNN%E5%8F%AF%E8%A7%86%E5%8C%96%E4%B9%8B%E7%B1%BB%E6%BF%80%E6%B4%BB%E7%83%AD%E5%8A%9B%E5%9B%BEGrad-CAM/D%230032.md)
+
 ## 联系方式
 
 + Email: dupeng63@163.com
