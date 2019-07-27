@@ -66,6 +66,8 @@
 
 [D#0032-CNN可视化之类激活热力图Grad-CAM](https://github.com/Captain1986/CaptainBlackboard/blob/master/D%230032-CNN%E5%8F%AF%E8%A7%86%E5%8C%96%E4%B9%8B%E7%B1%BB%E6%BF%80%E6%B4%BB%E7%83%AD%E5%8A%9B%E5%9B%BEGrad-CAM/D%230032.md)
 
+[D#0033-一些分类网络的训练技巧](https://github.com/Captain1986/CaptainBlackboard/blob/master/D%230033-%E4%B8%80%E4%BA%9B%E5%88%86%E7%B1%BB%E7%BD%91%E7%BB%9C%E7%9A%84%E8%AE%AD%E7%BB%83%E6%8A%80%E5%B7%A7/D%230033.md)
+
 ## 联系方式
 
 + Email: dupeng63@163.com
