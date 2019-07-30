@@ -68,6 +68,8 @@
 
 [D#0033-一些分类网络的训练技巧](https://github.com/Captain1986/CaptainBlackboard/blob/master/D%230033-%E4%B8%80%E4%BA%9B%E5%88%86%E7%B1%BB%E7%BD%91%E7%BB%9C%E7%9A%84%E8%AE%AD%E7%BB%83%E6%8A%80%E5%B7%A7/D%230033.md)
 
+[D#0034-火箭发射：阿里巴巴的轻量网络训练方法](https://github.com/Captain1986/CaptainBlackboard/blob/master/D%230034-%E7%81%AB%E7%AE%AD%E5%8F%91%E5%B0%84%EF%BC%9A%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E7%9A%84%E8%BD%BB%E9%87%8F%E7%BD%91%E7%BB%9C%E8%AE%AD%E7%BB%83%E6%96%B9%E6%B3%95/D%230034.md)
+
 ## 联系方式
 
 + Email: dupeng63@163.com
