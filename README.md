@@ -74,6 +74,8 @@
 
 [D#0036-2KW短视频打标问题之Multi-Modal-Machine-Learning](https://github.com/Captain1986/CaptainBlackboard/blob/master/D%230036-2KW%E7%9F%AD%E8%A7%86%E9%A2%91%E6%89%93%E6%A0%87%E9%97%AE%E9%A2%98%E4%B9%8BMulti-Modal-Machine-Learning/D%230036.md)
 
+[D#0037-CentralNet做多模态融合](https://github.com/Captain1986/CaptainBlackboard/blob/master/D%230037-CentralNet%E5%81%9A%E5%A4%9A%E6%A8%A1%E6%80%81%E8%9E%8D%E5%90%88/D%230037.md)
+
 ## 联系方式
 
 + Email: dupeng63@163.com
