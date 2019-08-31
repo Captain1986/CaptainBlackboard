@@ -72,6 +72,8 @@
 
 [D#0035-2KW短视频打标问题之Activate-Learning](https://github.com/Captain1986/CaptainBlackboard/blob/master/D%230035-2KW%E7%9F%AD%E8%A7%86%E9%A2%91%E6%89%93%E6%A0%87%E9%97%AE%E9%A2%98%E4%B9%8BActivate-Learning/D%230035.md)
 
+[D#0036-2KW短视频打标问题之Multi-Modal-Machine-Learning](https://github.com/Captain1986/CaptainBlackboard/blob/master/D%230036-2KW%E7%9F%AD%E8%A7%86%E9%A2%91%E6%89%93%E6%A0%87%E9%97%AE%E9%A2%98%E4%B9%8BMulti-Modal-Machine-Learning/D%230036.md)
+
 ## 联系方式
 
 + Email: dupeng63@163.com
