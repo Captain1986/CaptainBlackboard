@@ -76,6 +76,8 @@
 
 [D#0037-CentralNet做多模态融合](https://github.com/Captain1986/CaptainBlackboard/blob/master/D%230037-CentralNet%E5%81%9A%E5%A4%9A%E6%A8%A1%E6%80%81%E8%9E%8D%E5%90%88/D%230037.md)
 
+[D#0038-Multi-View-Active-Learning做视频推荐](https://github.com/Captain1986/CaptainBlackboard/blob/master/D%230038-Multi-View-Active-Learning%E5%81%9A%E8%A7%86%E9%A2%91%E6%8E%A8%E8%8D%90/D%230038.md)
+
 ## 联系方式
 
 + Email: dupeng63@163.com
