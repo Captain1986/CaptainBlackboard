@@ -78,6 +78,8 @@
 
 [D#0038-Multi-View-Active-Learning做视频推荐](https://github.com/Captain1986/CaptainBlackboard/blob/master/D%230038-Multi-View-Active-Learning%E5%81%9A%E8%A7%86%E9%A2%91%E6%8E%A8%E8%8D%90/D%230038.md)
 
+[D#0039-用FCN做分割](https://github.com/Captain1986/CaptainBlackboard/blob/master/D%230039-%E7%94%A8FCN%E5%81%9A%E5%88%86%E5%89%B2/D%230039.md)
+
 ## 联系方式
 
 + Email: dupeng63@163.com
