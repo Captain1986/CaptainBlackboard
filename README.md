@@ -80,6 +80,8 @@
 
 [D#0039-用FCN做分割](https://github.com/Captain1986/CaptainBlackboard/blob/master/D%230039-%E7%94%A8FCN%E5%81%9A%E5%88%86%E5%89%B2/D%230039.md)
 
+[D#0040-用U-Net做分割](https://github.com/Captain1986/CaptainBlackboard/blob/master/D%230040-用U-Net做分割/D%230040.md)
+
 ## 联系方式
 
 + Email: dupeng63@163.com
