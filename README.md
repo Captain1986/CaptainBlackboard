@@ -82,6 +82,8 @@
 
 [D#0040-用U-Net做分割](https://github.com/Captain1986/CaptainBlackboard/blob/master/D%230040-用U-Net做分割/D%230040.md)
 
+[D#0041-用RefineNet做分割](https://github.com/Captain1986/CaptainBlackboard/blob/master/D%230041-用RefineNet做分割/D%230041.md)
+
 ## 联系方式
 
 + Email: dupeng63@163.com
