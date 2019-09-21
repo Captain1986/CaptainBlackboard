@@ -84,6 +84,8 @@
 
 [D#0041-用RefineNet做分割](https://github.com/Captain1986/CaptainBlackboard/blob/master/D%230041-用RefineNet做分割/D%230041.md)
 
+[D#0042-用DeepLabv3+的Encoder-Decoder做分割](https://github.com/Captain1986/CaptainBlackboard/blob/master/D%230042-%E7%94%A8DeepLabv3%2B%E7%9A%84Encoder-Decoder%E5%81%9A%E5%88%86%E5%89%B2/D%230042.md)
+
 ## 联系方式
 
 + Email: dupeng63@163.com
