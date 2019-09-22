@@ -1,10 +1,10 @@
 # 船长黑板报
 
-**输出的才是自己的**，本黑板报专门记录一些船长在工作学习中的一些心得体会
+本黑板报专门记录一些船长在工作学习中的一些心得体会
 
 欢迎各路朋友提Pull Request，或者拍砖、改错别字都欢迎～
 
-## 目录（注：列且仅列已经完成的）
+## 目录（注：列且仅列已经完成的，点击可直达）
 
 [D#0001-undefined_reference_to_XXX](https://github.com/Captain1986/CaptainBlackboard/blob/master/D%230001-undefined_reference_to_XXX/D%230001.md)
 
@@ -85,12 +85,6 @@
 [D#0041-用RefineNet做分割](https://github.com/Captain1986/CaptainBlackboard/blob/master/D%230041-用RefineNet做分割/D%230041.md)
 
 [D#0042-用DeepLabv3+的Encoder-Decoder做分割](https://github.com/Captain1986/CaptainBlackboard/blob/master/D%230042-%E7%94%A8DeepLabv3%2B%E7%9A%84Encoder-Decoder%E5%81%9A%E5%88%86%E5%89%B2/D%230042.md)
-
-## 联系方式
-
-+ Email: dupeng63@163.com
-
-+ 微信: zsdpdwxh
 
 ## 转载须知
 
