@@ -86,6 +86,8 @@
 
 [D#0042-用DeepLabv3+的Encoder-Decoder做分割](https://github.com/Captain1986/CaptainBlackboard/blob/master/D%230042-%E7%94%A8DeepLabv3%2B%E7%9A%84Encoder-Decoder%E5%81%9A%E5%88%86%E5%89%B2/D%230042.md)
 
+[D#0043-用HRNet做分割](https://github.com/Captain1986/CaptainBlackboard/blob/master/D%230043-%E7%94%A8HRNet%E5%81%9A%E5%88%86%E5%89%B2/D%230043.md)
+
 ## 转载须知
 
 **如需转载，请著名原作者“船长”和原文链接**
