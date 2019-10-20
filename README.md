@@ -92,6 +92,8 @@
 
 [D#0045-Stacked-Hourglass-Network-for-Human-Pose-Estimation](https://github.com/Captain1986/CaptainBlackboard/blob/master/D%230045-Stacked-Hourglass-Network-for-Human-Pose-Estimation/D%230045.md)
 
+[D#0046-Anchor-Free第一篇CornerNet-Detecting-Objects-as-Paired-Keypoints](https://github.com/Captain1986/CaptainBlackboard/blob/master/D%230046-Anchor-Free%E7%AC%AC%E4%B8%80%E7%AF%87CornerNet-Detecting-Objects-as-Paired-Keypoints/D%230046.md)
+
 ## 关于Issues
 
 Issues里面我记录了一些自己要写的内容清单，写完一个就Close一个
