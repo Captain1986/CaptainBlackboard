@@ -92,6 +92,10 @@
 
 [D#0045-Stacked-Hourglass-Network-for-Human-Pose-Estimation](https://github.com/Captain1986/CaptainBlackboard/blob/master/D%230045-Stacked-Hourglass-Network-for-Human-Pose-Estimation/D%230045.md)
 
+## 关于Issues
+
+Issues里面我记录了一些自己要写的内容清单，写完一个就Close一个
+
 ## 转载须知
 
 **如需转载，请著名原作者“船长”和原文链接**
