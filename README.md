@@ -90,6 +90,8 @@
 
 [D#0044-用Network-Slimming做模型加速和压缩](https://github.com/Captain1986/CaptainBlackboard/blob/master/D%230044-%E7%94%A8Network-Slimming%E5%81%9A%E6%A8%A1%E5%9E%8B%E5%8A%A0%E9%80%9F%E5%92%8C%E5%8E%8B%E7%BC%A9/D%230044.md)
 
+[D#0045-Stacked-Hourglass-Network-for-Human-Pose-Estimation](https://github.com/Captain1986/CaptainBlackboard/blob/master/D%230045-Stacked-Hourglass-Network-for-Human-Pose-Estimation/D%230045.md)
+
 ## 转载须知
 
 **如需转载，请著名原作者“船长”和原文链接**
