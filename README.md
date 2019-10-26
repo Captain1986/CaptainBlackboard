@@ -96,6 +96,8 @@
 
 [D#0047-Anchor-Free第二篇CornerNet的变种ExtremeNet](https://github.com/Captain1986/CaptainBlackboard/blob/master/D%230047-Anchor-Free%E7%AC%AC%E4%BA%8C%E7%AF%87CornerNet%E7%9A%84%E5%8F%98%E7%A7%8DExtremeNet/D%230047.md)
 
+[D#0048-Anchor-Free第三篇Objects-as-Points](https://github.com/Captain1986/CaptainBlackboard/blob/master/D%230048-Anchor-Free%E7%AC%AC%E4%B8%89%E7%AF%87Objects-as-Points/D%230048.md)
+
 ## 关于Issues
 
 Issues里面我记录了一些自己要写的内容清单，写完一个就Close一个
