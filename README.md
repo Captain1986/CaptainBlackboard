@@ -98,6 +98,8 @@
 
 [D#0048-Anchor-Free第三篇Objects-as-Points](https://github.com/Captain1986/CaptainBlackboard/blob/master/D%230048-Anchor-Free%E7%AC%AC%E4%B8%89%E7%AF%87Objects-as-Points/D%230048.md)
 
+[D#0049-Anchor-Free第四篇CenterNet-Keypoint-Triplets-for-Object-Detection](https://github.com/Captain1986/CaptainBlackboard/blob/master/D%230049-Anchor-Free%E7%AC%AC%E5%9B%9B%E7%AF%87CenterNet-Keypoint-Triplets-for-Object-Detection/D%230049.md)
+
 ## 关于Issues
 
 Issues里面我记录了一些自己要写的内容清单，写完一个就Close一个
