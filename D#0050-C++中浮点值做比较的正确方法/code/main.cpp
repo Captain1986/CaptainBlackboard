@@ -3,9 +3,9 @@
 // Never try to check two floating point variables for equality
 // The important rule to remember is that powers of two and integer multiples thereof can be perfectly represented. everything else is an approximation.
 
-bool isEqual(const double first, const double second)
+bool isEqual(const double first, const double second, const double epsilon = 1e-6)
 {
-   return abs(first - second) < 1e-6;
+   return abs(first - second) < epsilon;
 }
 
 int main(int argc, char *argv[])
@@ -64,7 +64,8 @@ int main(int argc, char *argv[])
   }
 
   // 浮点数做比较的安全方法，引入些许误差
-  if ( isEqual(a, 3.14) ) {
+  double epsilon = 1e-6;
+  if ( isEqual(a, 3.14, epsilon) ) {
       std::cout << "float 3.14 and literal 3.14 can be compared by isEqual(...) " << std::endl;
   } else {
       std::cerr << "float 3.14 and literal 3.14  CAN NOT be compared by isEqual(...) " << std::endl;
