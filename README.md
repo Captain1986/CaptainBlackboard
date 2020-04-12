@@ -4,6 +4,10 @@
 
 欢迎各路朋友提Pull Request，或者拍砖、改错别字都欢迎～
 
+## 招聘
+
+本人所在阿里淘系技术部常年招数据挖掘/CV/NLP人才，社招校招实习P5~p8可找我**内推**
+
 ## 目录（注：列且仅列已经完成的，点击可直达）
 
 [D#0001-undefined_reference_to_XXX](https://github.com/Captain1986/CaptainBlackboard/blob/master/D%230001-undefined_reference_to_XXX/D%230001.md)
